@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eef74f55-a930-41ae-9b50-b190e55c7371" name="Changes" comment="class1TestNG">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/class01/priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/class01/priority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/class01/testNGExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/class01/testNGExample.java" afterDir="false" />
+    <list default="true" id="eef74f55-a930-41ae-9b50-b190e55c7371" name="Changes" comment="class1andClass02">
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/smokeRegressionGroups.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RunManager" selected="TestNG.C:/Users/choco/IdeaProjects/testNGBasicBatch14/testng.xml">
@@ -142,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669562097633</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="class1andClass02">
+      <created>1669580005025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669580005025</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +163,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="class1TestNG" />
-    <option name="LAST_COMMIT_MESSAGE" value="class1TestNG" />
+    <MESSAGE value="class1andClass02" />
+    <option name="LAST_COMMIT_MESSAGE" value="class1andClass02" />
   </component>
 </project>
