@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eef74f55-a930-41ae-9b50-b190e55c7371" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="eef74f55-a930-41ae-9b50-b190e55c7371" name="Changes" comment="class1TestNG">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/class01/priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/class01/priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/class01/testNGExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/class01/testNGExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +39,41 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.priority">
-    <configuration name="enableDisable" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/choco/IdeaProjects/testNGBasicBatch14/testng.xml">
+    <configuration name="C:/Users/choco/IdeaProjects/testNGBasicBatch14/classWiseExecutionExample.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNGBasicBatch14" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/classWiseExecutionExample.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/choco/IdeaProjects/testNGBasicBatch14/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNGBasicBatch14" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleAssertions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNGBasicBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="class01" />
-      <option name="MAIN_CLASS_NAME" value="class01.enableDisable" />
+      <option name="PACKAGE_NAME" value="class02" />
+      <option name="MAIN_CLASS_NAME" value="class02.ExampleAssertions" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -63,51 +81,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="priority" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExampleAssertions.LoginBtnIsDisplyed" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNGBasicBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="class01" />
-      <option name="MAIN_CLASS_NAME" value="class01.priority" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testNGAnnotations" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNGBasicBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="class01" />
-      <option name="MAIN_CLASS_NAME" value="class01.testNGAnnotations" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testNGAnnotations.SecondTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testNGBasicBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="class01" />
-      <option name="MAIN_CLASS_NAME" value="class01.testNGAnnotations" />
-      <option name="METHOD_NAME" value="SecondTestCase" />
+      <option name="PACKAGE_NAME" value="class02" />
+      <option name="MAIN_CLASS_NAME" value="class02.ExampleAssertions" />
+      <option name="METHOD_NAME" value="LoginBtnIsDisplyed" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -115,16 +99,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testNGExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SoftAssertions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testNGBasicBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01.*" />
+          <option name="PATTERN" value="class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="class01" />
-      <option name="MAIN_CLASS_NAME" value="class01.testNGExample" />
+      <option name="PACKAGE_NAME" value="class02" />
+      <option name="MAIN_CLASS_NAME" value="class02.SoftAssertions" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -134,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.priority" />
-        <item itemvalue="TestNG.enableDisable" />
-        <item itemvalue="TestNG.testNGExample" />
-        <item itemvalue="TestNG.testNGAnnotations" />
-        <item itemvalue="TestNG.testNGAnnotations.SecondTestCase" />
+        <item itemvalue="TestNG.C:/Users/choco/IdeaProjects/testNGBasicBatch14/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/choco/IdeaProjects/testNGBasicBatch14/classWiseExecutionExample.xml" />
+        <item itemvalue="TestNG.ExampleAssertions" />
+        <item itemvalue="TestNG.ExampleAssertions.LoginBtnIsDisplyed" />
+        <item itemvalue="TestNG.SoftAssertions" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +135,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669475787584</updated>
     </task>
+    <task id="LOCAL-00001" summary="class1TestNG">
+      <created>1669562097633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669562097633</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,5 +155,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="class1TestNG" />
+    <option name="LAST_COMMIT_MESSAGE" value="class1TestNG" />
   </component>
 </project>

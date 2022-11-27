@@ -3,7 +3,7 @@ package class01;
 import org.testng.annotations.Test;
 
 public class priority {
-    @Test(priority = 3)
+    @Test(priority = 3,groups = "regression")
     public void Atest(){
 
         System.out.println("i am A test");
