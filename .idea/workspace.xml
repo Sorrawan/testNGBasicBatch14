@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eef74f55-a930-41ae-9b50-b190e55c7371" name="Changes" comment="Class02">
+    <list default="true" id="eef74f55-a930-41ae-9b50-b190e55c7371" name="Changes" comment="Class03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodWiseExecution.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MethodWiseExecution.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultipleTestTags.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleTestTags.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWiseExecutionExample.xml" beforeDir="false" afterPath="$PROJECT_DIR$/classWiseExecutionExample.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/class01/priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/class01/priorities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/listenerXML.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669580331619</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Class03">
+      <created>1669853602369</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669853602369</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +190,7 @@
     <MESSAGE value="class1TestNG" />
     <MESSAGE value="class1andClass02" />
     <MESSAGE value="Class02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class02" />
+    <MESSAGE value="Class03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class03" />
   </component>
 </project>
