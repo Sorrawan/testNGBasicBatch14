@@ -2,7 +2,7 @@ package class01;
 
 import org.testng.annotations.Test;
 
-public class priority {
+public class priorities {
     @Test(priority = 3,groups = "regression")
     public void Atest(){
 

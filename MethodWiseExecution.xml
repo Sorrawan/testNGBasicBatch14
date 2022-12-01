@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="methodwiseexecution">
 <classes>
-    <class name="class01.priority">
+    <class name="class01.priorities">
         <methods>
             <include name="Atest"></include>
             <include name="Btest"></include>
